@@ -1,0 +1,14 @@
+{
+  "id": "doodl",
+  "name": "Doodl",
+  "version": "1.0.0",
+  "description": "Doodl Search Engine",
+  "main": "index.js",
+  "author": "@blindly",
+  "license": "MIT",
+  "repository": "https://github.com/blindly/recipe-doodl",
+  "config": {
+    "serviceURL": "https://doodl.cc/",
+    "hasNotificationSound": false
+  }
+}
